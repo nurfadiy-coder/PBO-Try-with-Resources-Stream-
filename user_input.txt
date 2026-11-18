@@ -1,0 +1,19 @@
+helooooamcbcrnjrueiksjhdfjknaifjvhbe exit
+cd "c:\Users\Administrator\OneDrive\Documents\FADIY!\tugas.matkul\SEM 3\objectOrientedProgramming\HandsOn Generic Input Output\HandsOn(8)\" ; if ($?) { javac WriteUserInputNew.java } ; if ($?) { java WriteUserInputNew }
+bismillahhh
+[2026-11-18 20:23:29] okeyy iini bariss pertamaa
+[2026-11-18 20:24:15] cd "c:\Users\Administrator\OneDrive\Documents\FADIY!\tugas.matkul\SEM 3\objectOrientedProgramming\HandsOn Generic Input Output\HandsOn(8)\" ; if ($?) { javac WriteUserInputNew.java } ; if ($?) { java WriteUserInputNew }
+[2026-11-18 20:24:18] cd "c:\Users\Administrator\OneDrive\Documents\FADIY!\tugas.matkul\SEM 3\objectOrientedProgramming\HandsOn Generic Input Output\HandsOn(8)\" ; if ($?) { javac WriteUserInputNew.java } ; if ($?) { java WriteUserInputNew }
+[2026-11-18 20:24:34] okeyyy
+[2026-11-18 20:27:08] cd "c:\Users\Administrator\OneDrive\Documents\FADIY!\tugas.matkul\SEM 3\objectOrientedProgramming\HandsOn Generic Input Output\HandsOn(8)\" ; if ($?) { javac WriteUserInputNew.java } ; if ($?) { java WriteUserInputNew }
+[2026-11-18 20:27:10] cd "c:\Users\Administrator\OneDrive\Documents\FADIY!\tugas.matkul\SEM 3\objectOrientedProgramming\HandsOn Generic Input Output\HandsOn(8)\" ; if ($?) { javac WriteUserInputNew.java } ; if ($?) { java WriteUserInputNew }
+[2026-11-18 20:27:16] cd "c:\Users\Administrator\OneDrive\Documents\FADIY!\tugas.matkul\SEM 3\objectOrientedProgramming\HandsOn Generic Input Output\HandsOn(8)\" ; if ($?) { javac WriteUserInputNew.java } ; if ($?) { java WriteUserInputNew }
+[2026-11-18 20:27:20] okeyyy
+[2026-11-18 20:27:24] okeyyy
+[2026-11-18 20:27:33] ini tugass kook gak muncull
+[2026-11-18 20:28:06] hmmm
+[2026-11-18 20:28:25] TUGAS PBO
+[2026-11-18 20:28:35] PEMROGRAMAN BERORIENTASI OBJEK
+[2026-11-18 20:28:56] NUR FADIYAH SYAFIQAH
+[2026-11-18 20:29:01] D121251007
+[2026-11-18 20:29:07] HANDSON PBO
